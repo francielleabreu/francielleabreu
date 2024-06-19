@@ -11,7 +11,7 @@
 
 - ✨ More About Me:
 
-<p align="justify">Since 2022, I transitioned to the IT field. I have a degree in Letters and have worked as a researcher, translator, and I have 5-year experience working as an International Project Analyst.</p>
+<p align="justify">Since 2022, I transitioned to the IT field. With 5 years of experience working as an International Project Analyst, I have a degree in Letters and have worked as researcher and translator.</p>
 
 <p align="justify">In addition to my practical work, I'm passionate about web design and staying up-to-date with the latest trends and technologies in the field.</p>
 
