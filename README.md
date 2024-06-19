@@ -2,14 +2,14 @@
 
 <p align="justify">I'm Francielle, a Front-end Developer and a UX/UI Designer, currently studying Systems Analysis and Development.</p>
 
-- 📫 How to reach me:
+📫 How to reach me:
 <p align="center">
   <a href="mailto:fran.abreu2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
   <a href="https://www.linkedin.com/in/francielle-abreu/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/francielleabreu1"><img src="https://img.shields.io/badge/Behance-%23E4405F?style=for-the-badge&logo=behance&logoColor=white"></a>
 </p> 
 
-- ✨ More About Me:
+✨ More About Me:
 
 <p align="justify">Since 2022, I transitioned to the IT field. With 5 years of experience working as an International Project Analyst, I have a degree in Letters and have worked as researcher and translator.</p>
 
