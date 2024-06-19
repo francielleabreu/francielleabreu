@@ -1,11 +1,11 @@
-## Hi there 👋,
+## Hi there 👋
 
 <p align="justify">I'm Francielle, a Front-end Developer and a UX/UI Designer, currently studying Systems Analysis and Development.</p>
 
 - 📫 How to reach me:
 <p align="center">
   <a href = "mailto:fran.abreu2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/francielle-abreu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/francielle-abreu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/francielleabreu1" <img src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 </p> 
 
