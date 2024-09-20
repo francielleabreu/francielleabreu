@@ -35,5 +35,5 @@
   </a>
  </p>
 <p align="center">
-  <img src="[https://github.com/username/repository/raw/main/images/frame13984.png](https://github.com/francielleabreu/francielleabreu/blob/main/Frame%2013984.png)" alt="Cover" />
+  <img src="https://github.com/francielleabreu/francielleabreu/raw/main/Frame%2013984.png" alt="Cover" />
 </p>
