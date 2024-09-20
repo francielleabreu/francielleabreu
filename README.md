@@ -34,3 +34,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francielleabreu&layout=compact&langs_count=7&theme=dark"/>
   </a>
  </p>
+<p align="center">
+  ![Frame 13984](https://github.com/user-attachments/assets/cb66777f-1f3a-498f-817d-22a42d5bda82)
+</p>
