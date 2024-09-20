@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, there 👋
 
 <p align="justify">I'm Francielle, a Front-end Developer and a UX/UI Designer, currently studying Systems Analysis and Development.</p>
 
@@ -35,5 +35,5 @@
   </a>
  </p>
 <p align="center">
-  ![Frame 13984](https://github.com/user-attachments/assets/cb66777f-1f3a-498f-817d-22a42d5bda82)
+  <img src="[https://github.com/username/repository/raw/main/images/frame13984.png](https://github.com/francielleabreu/francielleabreu/blob/main/Frame%2013984.png)" alt="Cover" />
 </p>
