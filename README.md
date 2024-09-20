@@ -14,12 +14,20 @@
 
 <p align="justify">Due to my passion for technology and design, I'm on a journey to transition from a 5-year career as an International Project Analyst.</p>
 
-<p align="justify">I love design and have expertise in UX Design, UI Design, UX Research, and Figma. My experience includes an internship in Rotterdam where my role was as UX Design, Product Design, and Developer. </p>
+<p align="justify">I love design and have expertise in UX Design, UI Design, UX Research, and Figma. My experience includes an internship where my role was as UX Design, Product Design, and Developer. </p>
 
 <p align="justify">Beyond design, I have knowledge on Programming and I am equipped to take on the challenges as a Front-end developer.</p>
 
 <p align="justify">I'm always eager to learn and grow in this ever-evolving field and I'm passionate about creating user-centered designs that leverage the best solution to help people with technology.</p>
 <br>
+
+## 🌐 Visit My Personal Website
+
+<p align="center">
+  <a href="https://seuwebsite.com](https://francielleabreu.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Check%20My%20Personal%20Website-ff69b4?style=for-the-badge" alt="Check my personal website" />
+  </a>
+</p>
 
   <br>
   <p align="center">
