@@ -39,8 +39,8 @@
  ## 🌐 Visit My Personal Website
 
 <p align="center">
-  <a href="https://seuwebsite.com](https://francielleabreu.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Check%20My%20Personal%20Website-ff69b4?style=for-the-badge" alt="Check my personal website" />
+  <a href="https://francielleabreu.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Check%20My%20Personal%20Website-CC3384?style=for-the-badge" alt="Check my personal website" />
   </a>
 </p>
 
