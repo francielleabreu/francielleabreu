@@ -1,6 +1,7 @@
-## Hi, there 👋
+## Hi, nice to meet you here!  👋
 
 <p align="justify">I'm Francielle, a Front-end Developer and a UX/UI Designer, currently studying Systems Analysis and Development.</p>
+<p align="justify">Combining my skills in design and programming, I'm pursuing a career as a Web Designer. </p>
 
 📫 How to reach me:
 <p align="center">
@@ -11,11 +12,11 @@
 
 ✨ More About Me:
 
-<p align="justify">Since 2022, I transitioned to the IT field. With 5 years of experience working as an International Project Analyst, I have a degree in Letters and have worked as researcher and translator.</p>
+<p align="justify">Due to my passion for technology and design, I'm on a journey to transition from a 5-year career as an International Project Analyst.</p>
 
-<p align="justify">In addition to my practical work, I'm passionate about web design and staying up-to-date with the latest trends and technologies in the field.</p>
+<p align="justify">I love design and have expertise in UX Design, UI Design, UX Research, and Figma. My experience includes an internship in Rotterdam where my role was as UX Design, Product Design, and Developer. </p>
 
-<p align="justify">Currently, I am living in Europe, and I love cycling and reading in my free time.</p>
+<p align="justify">Beyond design, I have knowledge on Programming and I am equipped to take on the challenges as a Front-end developer.</p>
 
 <p align="justify">I'm always eager to learn and grow in this ever-evolving field and I'm passionate about creating user-centered designs that leverage the best solution to help people with technology.</p>
 <br>
